@@ -37,6 +37,15 @@ body{
     background-attachment:fixed;
     height: 300px; 
 }
+.textos{
+    column-count:3;
+    column-gap: 100px;
+    text-align: justify;
+    color: beige;
+    width: 50%;
+    margin:0 auto;
+}
+
 @keyframes enloquecer{
     0%{background-color: antiquewhite;}
     20%{background-color: blueviolet;}
